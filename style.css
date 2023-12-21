@@ -33,12 +33,12 @@ nav ul{
     margin-top: 20px;
     font-size:x-small;
     font-weight: bold;
-    color: #eb7100;
+    color: #ff1e00;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 .social-links{
