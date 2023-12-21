@@ -38,6 +38,7 @@ nav ul{
     justify-content: center;
     align-items: center;
     text-align: center;
+    font-size: 1.5em;
 }
 
 .social-links{
@@ -54,6 +55,7 @@ nav ul{
     padding-top: 20px;
     margin-bottom:15px;
     font-weight: bold;
+    font-size: 2em;
     border-radius: 5px;
     padding: 5px;
     text-decoration: none; 
