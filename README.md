@@ -6,7 +6,7 @@
 - **Signal Processing & Communications**
 - *Currently learning ML (specifically the training and deployment of **distributed neural networks**)*
 
-### Languages
+### Languages & Skills
 
 <table>
   <tr>
@@ -29,7 +29,7 @@
   </tr>
 
   <tr>
-    <td>Machine Learning Libraries</td>
+    <td>ML Libraries</td>
     <td>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
